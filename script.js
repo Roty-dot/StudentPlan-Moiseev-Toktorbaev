@@ -86,3 +86,5 @@ button.addEventListener('click', function()
             renderTask(task);
         }
     );
+
+    // Проверка защиты ветки
